@@ -1,0 +1,16 @@
+//菜单栏样式控制，包括左边栏，顶部栏
+//左边栏
+
+.menu-bg{
+  background:$menuBg;
+  color:$menuText;
+}
+.index-left .el-menu{
+  background:$menuBg !important;
+}
+.index-left .el-submenu__title{
+  color: $menuText !important;
+}
+.index-left .el-menu-item{
+  color: $menuText !important;
+}

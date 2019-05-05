@@ -1,0 +1,25 @@
+$componentRadius: 4px;
+$componentPadding: 10px;
+
+.busi-effciency-page-content {
+    width: 100%;
+    height: 100%;
+    background: #f2f3f7;
+    padding: 0px 15px 15px 15px;
+    .el-row {
+      margin-top: 15px;
+    }
+    .piece-content {
+      background: white;
+      min-height: 300px;
+      border-radius: $componentRadius;
+      padding: $componentPadding;
+    }
+    .time-select-nav{
+      min-height: 25px;
+      .time-select{
+        position: absolute;
+        right: 10px;
+      }
+    }
+  }

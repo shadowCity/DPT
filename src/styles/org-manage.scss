@@ -1,0 +1,42 @@
+
+.org-manage-main-content {
+    background-color: #fff;
+
+    .row-padding {
+      padding: 1rem 1rem 0 3rem;
+    }
+    .top-button-style {
+       display: flex;
+       display: -webkit-flex;
+       justify-content: flex-end;
+    }
+    .trade-name {
+      font-size: 18px;
+      color: #333333;
+      font-weight: 600;
+    }
+    .query-contidion-area {
+        padding-top: 20px;
+    }
+    .input-magin {
+      width: 70%;margin-left: 10px;
+    }
+    .input-special-magin {
+      width: 66%;margin-left: 10px;
+    }
+    .separate-line {
+      border-bottom: 5px solid #F6F6F6;
+    }
+    .query-contion-magin {
+      margin-left:72px;
+    }
+    .magin-20 {
+      margin-top:20px;
+    }
+    label{
+      font-size: 14px;
+      color: #666666;
+    }
+  }
+
+

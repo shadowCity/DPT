@@ -1,0 +1,30 @@
+$componentRadius: 8px;
+.cusflow-main-content {
+    background: #f2f3f7;
+     padding: 0rem 1rem 1rem 1rem;
+    .el-row {
+        margin-top: 1rem;
+      }
+    .customer-number{
+      height: 18.75rem;
+    }
+    .customer-type{
+      height: 13.75rem;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .bg-write {
+      background: white;
+      border-radius: $componentRadius;
+    }
+    .height-100 {
+      height: 100%;
+    }
+    .time-select-nav{
+      min-height: 1.56rem;
+      .time-select{
+        position: absolute;
+        right: 10px;
+      }
+    }
+  }

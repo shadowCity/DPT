@@ -1,0 +1,127 @@
+{
+  "access_token": "eyJhbGciOiJIUzUxMiJ9.eyJtb25pdG9yIjoibW9uaXRvciIsInVzZXJOYW1lIjoiTUFOQUdFUiIsImV4cCI6NjQ0MjQ1MDk0NDAsImNyZWF0ZVRpbWUiOjE1NTI0NDIxNzM0MTZ9.SPQMU4oQZtQ_bdYPFlsULEEgOSzaVgH_csibxUeF35bDPJoXEGkXQVtt8QGTdWUlNTDgikOe4hg23mPPV3y1uw",
+  "orgList": [
+    {
+      "ORGID": "61600",
+      "ORGNAME_CN": "合肥分行",
+      "ORGLEVELID": "2",
+      "PARENTORGID": "71601"
+    },
+    {
+      "ORGID": "71601",
+      "ORGNAME_CN": "合肥总行",
+      "ORGLEVELID": "1",
+      "PARENTORGID": "71601"
+    },
+    {
+      "ORGID": "51601",
+      "ORGNAME_CN": "合肥分行2",
+      "ORGLEVELID": "2",
+      "PARENTORGID": "71601"
+    },
+    {
+      "ORGID": "51606",
+      "ORGNAME_CN": "合肥不知道什么行",
+      "ORGLEVELID": "3",
+      "PARENTORGID": "51601"
+    },
+    {
+      "ORGID": "61601",
+      "ORGNAME_CN": "合肥西园新村社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61602",
+      "ORGNAME_CN": "世纪家园社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61603",
+      "ORGNAME_CN": "碧湖花园社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61604",
+      "ORGNAME_CN": "庐江学苑小区社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61605",
+      "ORGNAME_CN": "合肥万绿园社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61606",
+      "ORGNAME_CN": "合肥蓝色湖畔社区支行",
+      "ORGLEVELID": "4",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61701",
+      "ORGNAME_CN": "营业部",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61702",
+      "ORGNAME_CN": "瑶海支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61703",
+      "ORGNAME_CN": "望江西路支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61704",
+      "ORGNAME_CN": "庐江支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61705",
+      "ORGNAME_CN": "包河支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61706",
+      "ORGNAME_CN": "屯溪路支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61707",
+      "ORGNAME_CN": "金潜支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61708",
+      "ORGNAME_CN": "肥西支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61709",
+      "ORGNAME_CN": "合肥当涂路支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    },
+    {
+      "ORGID": "61710",
+      "ORGNAME_CN": "合肥临泉东路支行",
+      "ORGLEVELID": "3",
+      "PARENTORGID":"61600"
+    }
+  ],
+  "userName": "管理员",
+  "userID": "MANAGER"
+}

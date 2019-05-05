@@ -1,0 +1,21 @@
+.survey-style {
+    width: 100%;
+    height: calc(100vh - 65px);
+    background-image: linear-gradient(-180deg, #D9E7F9 52%, #758AB6 100%);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 5px;
+    .el-row {
+        margin-top: 15px;
+    }
+    .time-select-style {
+        min-height: 25px;
+        .time-select {
+            position: absolute;
+            right: 10px;
+            /deep/ .time-select-content {
+                background: #C4D4EB;
+            }
+        }
+    }
+}
